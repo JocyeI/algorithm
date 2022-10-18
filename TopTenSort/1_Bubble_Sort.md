@@ -41,15 +41,20 @@ def bubble_sort(arr: List[arr]):
     
     # 3.遍历数组
     for i in range(arrLen):
+        
         # 3.1 设置标志位。如本身已经有序，则直接break
         is_swap = False
+        
         # 3.2 遍历数组
         for j in range(arrLen - i - 1):
+            
             # 3.3 如果前面的值大于后面的值，则交换位置
             if arr[j] > arr[j + 1]:
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
+                
                 # 3.4 判断是否交换过，有序
                 is_swap = True
+                
             # 3.5 如果没有交换，则直接退出
             if not is_swap: 
                 break

@@ -42,15 +42,21 @@ def insert_sort(arr: List(int)):
     
     # 3.遍历数组
     for i in range(1, arrLen):
+        
         # 3.1 将每次索引遍历获取的值，赋给value
         value = arr[i]
+        
         # 3.2 每遍历一次减去1
         j = i - 1
+        
         # 3.3 判断arr[j] 是否大于value(arr[i])
         hwile j >= 0 and arr[j] > value:
+            
             # 3.4 赋值
             arr[j + 1] = arr[j]
             j -= 1
+            
+        # 3.5 交换值
         arr[j + 1] = value
         
 

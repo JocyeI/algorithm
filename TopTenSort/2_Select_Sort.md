@@ -38,16 +38,21 @@ def select_sort(arr: List[int]):
     
     # 3.遍历数组
     for i in range(arrLen):
+        
         # 3.1设置最小索引为i
         min_idx = i
+        
         # 3.2设置最小索引对应的值为arr[i]
         min_val = arr[i]
+        
         # 3.3在i范围内，完成所有遍历
         for j in range(i, arrLen):
+            
             # 3.4如果从j中取到的值，小于i最小索引值，则将i最小索引值，赋给j
             if arr[j] < min_val:
                 min_val = arr[j] # 3.4.1 min_val = arr[i] ----> arr[i] = arr[j]
                 min_idx = j # 3.4.2 min_idx = i -----> i = j
+                
         # 交换值
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
 
