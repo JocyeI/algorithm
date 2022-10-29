@@ -7,24 +7,23 @@ Python数据结构与算法(Data Structure&amp;Algorithm)
 
 # 十大排序算法(Python)
 
-- [第零章 前言·术语库](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E9%9B%B6%E7%AB%A0%20%E5%89%8D%E8%A8%80%E6%9C%AF%E8%AF%AD%E5%BA%93.md)
+- [1.冒泡排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/1_Bubble_Sort.mdd)
 
-- [第一章 Pytorch入门](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%80%E7%AB%A0%20Pytorch%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md)
+- [2.选择排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/2_Select_Sort.md)
 
-- [第二章 Pytorch简介](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Pytorch%E7%AE%80%E4%BB%8B.md)
+- [3.插入排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/3_Insert_Sort.md)
 
-- [第三章 Pytorch张量基础](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Pytorch%E5%BC%A0%E9%87%8F%E5%9F%BA%E7%A1%80.md)
+- [4.快速排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/4_Quick_Sort.md)
 
-- [第四章 Pytorch自动微分](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Pytorch%E8%87%AA%E5%8A%A8%E5%BE%AE%E5%88%86.md)
+- [5.归并排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/5_Merge_Sort.md)
 
+- [6.归并排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/6_Shell_Sort.md)
 
-- [第五章 Pytorch模型构建](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%94%E7%AB%A0%20Pytorch%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA.md)
+- [7.堆排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/7_Heap_Sort.md)
 
-- [第六章 Pytorch激活函数](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%85%AD%E7%AB%A0%20Pytorch%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
+- [8.计数排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/8_Count_Sort.md)
 
-- [第七章 Pytorch损失函数](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Pytorch%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md)
-
-- [第八章 Pytorch优化器](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%85%AB%E7%AB%A0%20Pytorch%E4%BC%98%E5%8C%96%E5%99%A8.md)
+- [9.桶排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/9_Bucket_Sort.md)
 
 - [第九章 Pytorch CUDA](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20Pytorch%20CUDA.md)
 
