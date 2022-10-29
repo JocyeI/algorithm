@@ -32,7 +32,7 @@ Python数据结构与算法(Data Structure&amp;Algorithm)
 
 # 设计模式(Design_Mode_Python)
 
-## 分类
+ 分类
 
 ### 1. 创建型模型
 
