@@ -33,7 +33,7 @@
 
 ## 1. 创建型模型
 
-- 简单工厂 [simple_factory](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/simple_factory.py)
+- [简单工厂(simple_factory)](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/simple_factory.py)
 - 抽象工厂 [abstract_factory](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/abstract_factory.py)
 - 建造者   [builder](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/builder.py)
 - 工厂方法 [factory_method](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/factory_mothed.py)
