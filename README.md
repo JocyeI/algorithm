@@ -1,6 +1,7 @@
 # 数据结构
   * [01.入门篇](https://github.com/Walhalla-Summary/algorithm/blob/master/DataStructure/docs/01.%E5%85%A5%E9%97%A8%E7%AF%87.md)
   * [02.数组](https://github.com/Walhalla-Summary/algorithm/blob/master/DataStructure/docs/02.%E6%95%B0%E7%BB%84.md)
+    - [Array](https://github.com/Walhalla-Summary/algorithm/blob/master/DataStructure/02.array/02.Array.py)
   * [03.链表](https://github.com/Walhalla-Summary/algorithm/blob/master/DataStructure/docs/03.%E9%93%BE%E8%A1%A8.md)
   * [04.栈](https://github.com/Walhalla-Summary/algorithm/blob/master/DataStructure/docs/04.%E6%A0%88.md)
   * [05.队列](https://github.com/Walhalla-Summary/algorithm/blob/master/DataStructure/docs/05.%E9%98%9F%E5%88%97.md)
