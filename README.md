@@ -2,8 +2,6 @@
 
 --------------------------------------------------------------------------------
 
-Python数据结构与算法(Data Structure&amp;Algorithm)
-
 
 # 十大排序算法(Python)
 
@@ -32,8 +30,6 @@ Python数据结构与算法(Data Structure&amp;Algorithm)
 
 # 设计模式(Design_Mode_Python)
 
- 分类
-
 ### 1. 创建型模型
 
 - 简单工厂 [simple_factory](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/simple_factory.py)
@@ -56,14 +52,14 @@ Python数据结构与算法(Data Structure&amp;Algorithm)
 
 ### 3. 行为型
 
-- 观察者   [observer](https://github.com/wklken/py-patterns/blob/master/Behavioral/observer.py)
-- 模板方法 [abstract](https://github.com/wklken/py-patterns/blob/master/Behavioral/template_method.py)
-- 命令     [command](https://github.com/wklken/py-patterns/blob/master/Behavioral/command.py)
-- 状态     [state](https://github.com/wklken/py-patterns/blob/master/Behavioral/state.py)
-- 责任链   [chain_of_responsibility](https://github.com/wklken/py-patterns/blob/master/Behavioral/chain_of_responsibility.py)
-- 解释器   [interpreter](https://github.com/wklken/py-patterns/blob/master/Behavioral/interpreter.py)
-- 中介者   [mediator](https://github.com/wklken/py-patterns/blob/master/Behavioral/mediator.py)
-- 访问者   [visitor](https://github.com/wklken/py-patterns/blob/master/Behavioral/visitor.py)
-- 策略     [strategy](https://github.com/wklken/py-patterns/blob/master/Behavioral/strategy.py)
-- 备忘录   [memento](https://github.com/wklken/py-patterns/blob/master/Behavioral/memento.py)
-- 迭代器   [iterator](https://github.com/wklken/py-patterns/blob/master/Behavioral/iterator.py)
+- 观察者   [observer](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/observer.py)
+- 模板方法 [abstract](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/template_mothed.py)
+- 命令     [command](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/command.py)
+- 状态     [state](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/state.py)
+- 责任链   [chain_of_responsibility](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/chan_of_reponsiblity.py)
+- 解释器   [interpreter](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/interpreter.py)
+- 中介者   [mediator](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/mediator.py)
+- 访问者   [visitor](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/visitor.py)
+- 策略     [strategy](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/strategy.py)
+- 备忘录   [memento](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/memento.py)
+- 迭代器   [iterator](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/iterator.py)
