@@ -28,9 +28,9 @@
 - [十大排序算法](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/Top_Ten_Sequences.md)
 
 
-# 设计模式(Design_Mode_Python)
+# 设计模式(Python)
 
-### 1. 创建型模型
+## 1. 创建型模型
 
 - 简单工厂 [simple_factory](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/simple_factory.py)
 - 抽象工厂 [abstract_factory](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/abstract_factory.py)
@@ -40,7 +40,7 @@
 - 单例     [singleton](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/create_model/singleton.py)
 
 
-### 2. 结构型模型
+## 2. 结构型模型
 
 - 适配器 [adapter](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/structural_model/adapter.py)
 - 桥接   [bridge](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/structural_model/bridge.py)
@@ -50,7 +50,7 @@
 - 享元   [flyweight](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/structural_model/flyweight.py)
 - 代理   [proxy](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/structural_model/proxy.py)
 
-### 3. 行为型
+## 3. 行为型
 
 - 观察者   [observer](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/observer.py)
 - 模板方法 [abstract](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/template_mothed.py)
