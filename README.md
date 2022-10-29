@@ -59,7 +59,7 @@
 - 备忘录   [memento](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/memento.py)
 - 迭代器   [iterator](https://github.com/Walhalla-Summary/Algorithm/blob/master/Design_Mode/behavioral_model/iterator.py)
 
-## 4.设计模式比较好的博客
+## 4.比较好Python设计模式的博客
 ### 创建类
 - [工厂方法模式](https://www.cnblogs.com/welan/p/9126922.html)
 - [建造者模式](https://www.cnblogs.com/welan/p/9124081.html)
