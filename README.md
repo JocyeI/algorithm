@@ -1,7 +1,4 @@
-# Python数据结构与算法(Data Structure&Algorithm)
-
-
-## 十大排序算法(Python)
+# 十大排序算法(Python)
 
 - [1.冒泡排序](https://github.com/Walhalla-Summary/Algorithm/blob/master/TopTenSort/1_Bubble_Sort.md)
 
